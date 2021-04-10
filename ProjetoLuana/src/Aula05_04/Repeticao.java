@@ -13,11 +13,11 @@ public class Repeticao {
 		
 		for(int x=1;x<=3;x++)
 		{
-			System.out.println("\nDigite a primeira nota: ");
+			System.out.println("\nOlá! Digite a primeira nota: ");
 			n1 = ler.nextFloat();
-			System.out.println("Digite a segunda nota: ");
+			System.out.println("Olá! Digite a segunda nota: ");
 			n2 = ler.nextFloat();
-			System.out.println("Digite a terceira nota: ");
+			System.out.println("Olá! Digite a terceira nota: ");
 			n3 = ler.nextFloat();
 			
 			media = (n1+n2+n3)/3;
