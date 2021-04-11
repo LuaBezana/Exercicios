@@ -4,6 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//Exercício exemplo
 		TelefoneCelular celular = new TelefoneCelular();
 		TelefoneFixo fixo = new TelefoneFixo();
 		TelefonePublico publico = new TelefonePublico();
@@ -12,7 +13,7 @@ public class Main {
 		
 		int n = (int) (Math.random()*3.0);
 		
-		System.out.println("\nN�mero escolhido foi: "+n);
+		System.out.println("\nNúmero escolhido foi: "+n);
 		
 		switch(n)
 		{
